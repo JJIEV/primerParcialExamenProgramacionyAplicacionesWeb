@@ -19,16 +19,24 @@ var app = builder.Build();
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
 {
+    app.UseExceptionHandler("/Home/Error");
+
+    app.UseHsts();
+
+
+
     app.UseSwagger();
     app.UseSwaggerUI();
 }
 
-app.UseHttpsRedirection();
+//app.UseHttpsRedirection();
 
-var summaries = new[]
-{
-    "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
-};
+app.UseStaticFiles();
+
+app.UseRouting();
+
+
+
 
 
 app.MapPost("/cliente/", async (Cliente cliente, PrimerParcialApp db) =>
