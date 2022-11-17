@@ -33,3 +33,10 @@ C:\Users\Narug\source\repos\api.examenparcial1\obj\Debug\net6.0\refint\api.exame
 C:\Users\Narug\source\repos\api.examenparcial1\obj\Debug\net6.0\api.examenparcial1.pdb
 C:\Users\Narug\source\repos\api.examenparcial1\obj\Debug\net6.0\api.examenparcial1.genruntimeconfig.cache
 C:\Users\Narug\source\repos\api.examenparcial1\obj\Debug\net6.0\ref\api.examenparcial1.dll
+C:\Users\Narug\source\repos\api.examenparcial1\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Narug\source\repos\api.examenparcial1\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Narug\source\repos\api.examenparcial1\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Narug\source\repos\api.examenparcial1\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Narug\source\repos\api.examenparcial1\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Narug\source\repos\api.examenparcial1\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Narug\source\repos\api.examenparcial1\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
